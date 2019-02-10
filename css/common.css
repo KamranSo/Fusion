@@ -1,0 +1,46 @@
+/* .border{
+    border: 1px solid black;
+} */
+.clear{
+    clear: both;
+}
+.floatLeft{
+    float: left;
+}
+.floatRight{
+    float: right;
+}
+.btn_type1{
+    border-radius: 30px;
+    background: #f63854;
+    color: white;
+    padding: 10px 25px;
+    border: 1px solid #f63854
+}
+.btn_type1:hover{
+    background: white;
+    color: #f63854;
+    border: 1px dotted #f63854;
+    transition: 0.7s;
+    box-shadow: 0 3px 6px 3px rgba(0,0,0,.06);
+}
+.btn_type2{
+    background: white;
+    color: #f63854;
+    border-radius: 30px;
+    padding: 10px 25px;
+    border: 1px solid #f63854;
+}
+.btn_type2:hover{
+    background: #f63854;
+    color: white;
+    padding: 10px 25px;
+    transition: 0.7s;
+    border: 1px solid #f63854
+}
+/* img{
+position: relative;
+width: 100%;
+min-height: 1px;
+padding-right: 15px;
+padding-left: 15px;} */
